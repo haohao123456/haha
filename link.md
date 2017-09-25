@@ -4,4 +4,7 @@
 
 This is [an example](http://example.com/ "Title") inline link.
 
-[This link](http://example.net/) has no title attribute.
+[This link](http://example.net/) has no title attribute.<br>
+4，[阳志平：不上大学可以做什么](http://www.yangzhiping.com/psy/open-classroom.html)<br>
+5, [心智十二宫](http://www.yangzhiping.com/psy/mindbook.html)
+6, [阳志平](http://www.yangzhiping.com/)
